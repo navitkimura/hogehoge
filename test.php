@@ -13,6 +13,10 @@
 	hoge();
 	
 	exit();
-
-
-
+	
+	// hogehoge1
+	// hogehoge2
+	
+	
+	
+	
